@@ -8,5 +8,5 @@
 
 ## Requirements
 
-esx_society
-esx_billing
+- esx_society
+- esx_billing
