@@ -5,11 +5,11 @@ Config.DrawDistance               = 10.0 -- How close you need to be in order fo
 Config.MaxInService               = -1
 Config.EnablePlayerManagement     = true -- Enable society managing.
 Config.EnableSocietyOwnedVehicles = false
-
+Config.JobName					  = 'mechanic'
 Config.NPCSpawnDistance           = 500.0
 Config.NPCNextToDistance          = 25.0
 Config.NPCJobEarnings             = { min = 15, max = 40 }
-
+Config.DChecks 					  = true
 Config.OxInventory                = ESX.GetConfig().OxInventory
 
 Config.Vehicles = {
